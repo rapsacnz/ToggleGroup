@@ -4,7 +4,7 @@ Uses the RadioGroup source code, Modified to accept a ToggleButton rather than a
 
 Usage:
 
-
+````
 <com.rapsacnz.ToggleGroup
     android:id="@+id/deal_detail_toolbar"
     android:layout_width="fill_parent"
@@ -61,3 +61,4 @@ Usage:
 
 
 </com.rapsacnz.ToggleGroup>
+```
